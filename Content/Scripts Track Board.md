@@ -15,4 +15,3 @@ content-start: 436
 |                 العميل مش دايما صح!                  |    ✖     |   post   |    Medium    |
 |               التحول الرقمي مش رفاهية                |    ✖     |   post   |    Medium    |
 
-
