@@ -1,0 +1,60 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "sUeZ0ysB5oUZl-AHFANyM",
+      "name": "Cyan",
+      "value": "#00d8ff"
+    },
+    {
+      "id": "xsR2APZ7ma-VP10WLuhkt",
+      "name": "Yellow",
+      "value": "#f7df1e"
+    },
+    {
+      "id": "Ru1nE49oZguXaKNOCel22",
+      "name": "Purble",
+      "value": "#bb8dfc"
+    },
+    {
+      "id": "SH5UpgkOmEK9GUZfJlMNT",
+      "name": "Green",
+      "value": "#68a063"
+    },
+    {
+      "id": "jqiwGQ8YLWXetBXQ1pOxK",
+      "name": "Red",
+      "value": "#ff1414"
+    },
+    {
+      "id": "EtxWc0F3nVVYhVIs0y7pm",
+      "name": "Blue",
+      "value": "#6670ff"
+    },
+    {
+      "id": "6w2SHEXKKz4mWJBC8Kb3I",
+      "name": "Teal",
+      "value": "#61ffc2"
+    },
+    {
+      "id": "E6Z1PQeyUC9qjIT2UrbX3",
+      "name": "Tan",
+      "value": "#fff194"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Content/Scripts Track Board.md",
+      "color": "jqiwGQ8YLWXetBXQ1pOxK"
+    },
+    {
+      "path": "Content",
+      "color": "EtxWc0F3nVVYhVIs0y7pm"
+    },
+    {
+      "path": "Content/Scripts",
+      "color": "xsR2APZ7ma-VP10WLuhkt"
+    }
+  ]
+}
