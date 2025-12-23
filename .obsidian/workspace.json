@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Scripts Track Board"
             }
-          },
-          {
-            "id": "56347382d59bb796",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/Scripts/تغيّر المتطلبات ≠ سوء تخطيط.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "تغيّر المتطلبات ≠ سوء تخطيط"
-            }
           }
         ]
       }
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#carousel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,24 +197,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "obsidian-git:Open Git source control": false
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
   "active": "871be9074eef7575",
   "lastOpenFiles": [
-    "Content/Scripts Track Board.md",
     "Content/Scripts/التحول الرقمي مش رفاهية.md",
+    "Content/Scripts Track Board.md",
+    "Content/Scripts/تغيّر المتطلبات ≠ سوء تخطيط.md",
+    "Content/Scripts/إمتى نعرف إن المشروع ماشي صح؟ (علامات مش واضحة للكل).md",
     "Content/Scripts/العميل مش دايمًا صح.md",
     "Content/Scripts/مش كل شغل بيتقاس بعدد الـ features.md",
     "Content/Scripts/المشكلة مش إن المتطلبات بتتغير… المشكلة إن مكنتش واضحة من الأول.md",
-    "Content/Scripts/تغيّر المتطلبات ≠ سوء تخطيط.md",
     "Content/Scripts/ليه بنرفض شغل أحيانًا؟.md",
     "Content/Content.md",
     "Content/Scripts/Scripts.md",
     "Texon For Sharing recourses.md",
     "Tags",
-    "Content/Scripts/إمتى نعرف إن المشروع ماشي صح؟ (علامات مش واضحة للكل).md",
     "Content/Scripts",
     "Content/scripts",
     "Untitled",
